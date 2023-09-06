@@ -1,6 +1,6 @@
 <!--<img src="https://cdn.discordapp.com/attachments/533004171956191242/887815222247694406/ImKevinHeaderGithub.png"/>-->
 
-<a href="https://discord.com/users/433426340813864960"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/433426340813864960?bg=7055ff&borderRadius=8px&hideDiscrim=true"/></a>
+<a href="https://discord.com/users/433426340813864960"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/433426340813864960?bg=7f55ff&borderRadius=8px&hideDiscrim=true"/></a>
 
 ## KevinGunz Info
 
