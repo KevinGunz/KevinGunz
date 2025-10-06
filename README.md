@@ -4,6 +4,6 @@
 
 ## KevinGunz Info
 
-Hi, I'm Kevin (obviously), an 21 year old guy from Brazil.  I am currently studying at FIAP college to become a Software Engineer, if you are interested in contacting me directly, you can click on this Discord overlay on the left.
+Hi, I'm Kevin (obviously), an 22 year old guy from Brazil.  I am currently studying at FIAP college to become a Software Engineer, if you are interested in contacting me directly, you can click on this Discord overlay on the left.
 
 The programming languages that I have knowledge of so far are: HTML CSS JS PYTHON and the Bootstrap Framework.
