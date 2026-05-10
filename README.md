@@ -3,7 +3,7 @@
         <img 
             alt="Developer" 
             title="Freelancer" 
-            src="https://custom-icon-badges.demolab.com/badge/-Hey! I am KevinGunz a Freelancer Developer who make customs applications themes, if you wanna see my themes just check my repos :)-black?style=for-the-badge"
+            src="https://custom-icon-badges.demolab.com/badge/-Freelancer Developer who make customs applications themes, if you wanna see my themes just check my repos :)-black?style=for-the-badge"
         />
     </a>
     <p></p>
