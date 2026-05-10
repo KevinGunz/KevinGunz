@@ -1,10 +1,12 @@
-# KevinGunz
-
-**`Freelancer Developer`**
-
-My name is Kevin, I'm 23 years old and I like to customize the applications I use daily, including Discord, HydraLauncher, and Spotify. I post the themes I create on this profile; if you want to check out my repositories, see you around, bro!
-
 <p align="left">
+    <a href="https://github.com/KevinGunz?tab=repositories&sort=stargazers">
+        <img 
+            alt="Developer" 
+            title="Freelancer" 
+            src="https://custom-icon-badges.demolab.com/badge/-Hey! I am KevinGunz a Freelancer Developer who make customs applications themes, if you wanna see my themes just check my repos :)-black?style=for-the-badge"
+        />
+    </a>
+    <p></p>
     <a href="https://github.com/KevinGunz?tab=repositories&sort=stargazers">
         <img 
             alt="Total Stars" 
@@ -19,80 +21,93 @@ My name is Kevin, I'm 23 years old and I like to customize the applications I us
             src="https://custom-icon-badges.demolab.com/github/followers/KevinGunz?color=000000&labelColor=000000&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
     </a>
+    <a href="https://github.com/KevinGunz?tab=repositories&sort=stargazers">
+        <img 
+            alt="Contry" 
+            title="My Contry" 
+            src="https://custom-icon-badges.demolab.com/badge/São Paulo-black?color=000000&labelColor=000000&style=for-the-badge&logo=location&logoColor=white"
+        />
+    </a>
+    </a>
+    <a href="https://github.com/KevinGunz?tab=repositories&sort=stargazers">
+        <img 
+            alt="Contry" 
+            title="My Contry" 
+            src="https://custom-icon-badges.demolab.com/badge/-K3vinGunz@gmail.com-black?style=for-the-badge&logo=mention&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/KevinGunz?tab=repositories&sort=stargazers">
+        <img 
+            alt="Contry" 
+            title="My Contry" 
+            src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-black?style=for-the-badge&logoColor=white&logo=repo"
+        />
+    </a>
 </p>
 
----
+<a href="https://github.com/KevinGunz?tab=repositories&sort=stargazers">
+        <img 
+            alt="HTML" 
+            title="Lang" 
+            src="https://custom-icon-badges.demolab.com/badge/-My Stack of Languages and Technologies:-black?style=for-the-badge"
+        />
+    </a>
+    
+<p></p>
 
-### Languages and Technologies
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
+<a href="https://github.com/KevinGunz?tab=repositories&sort=stargazers">
+        <img 
+            alt="HTML" 
+            title="Lang" 
+            src="https://custom-icon-badges.demolab.com/badge/-HTML-black?style=for-the-badge"
+        />
+    </a>
+<a href="https://github.com/KevinGunz?tab=repositories&sort=stargazers">
+        <img 
+            alt="Developer" 
+            title="Freelancer" 
+            src="https://custom-icon-badges.demolab.com/badge/-CSS-black?style=for-the-badge"
+        />
+    </a>
+<a href="https://github.com/KevinGunz?tab=repositories&sort=stargazers">
+        <img 
+            alt="Developer" 
+            title="Freelancer" 
+            src="https://custom-icon-badges.demolab.com/badge/-JavaScript-black?style=for-the-badge"
+        />
+    </a>
+<a href="https://github.com/KevinGunz?tab=repositories&sort=stargazers">
+        <img 
+            alt="Developer" 
+            title="Freelancer" 
+            src="https://custom-icon-badges.demolab.com/badge/-Bootstrap-black?style=for-the-badge"
+        />
+    </a>
+<a href="https://github.com/KevinGunz?tab=repositories&sort=stargazers">
+        <img 
+            alt="Developer" 
+            title="Freelancer" 
+            src="https://custom-icon-badges.demolab.com/badge/-Git-black?style=for-the-badge"
+        />
+    </a>
+<a href="https://github.com/KevinGunz?tab=repositories&sort=stargazers">
+        <img 
+            alt="Developer" 
+            title="Freelancer" 
+            src="https://custom-icon-badges.demolab.com/badge/-Python-black?style=for-the-badge"
+        />
+    </a>
 <br/>
 <br/>
 
-### Statistics
+<a href="https://github.com/KevinGunz?tab=repositories&sort=stargazers">
+        <img 
+            alt="HTML" 
+            title="Lang" 
+            src="https://custom-icon-badges.demolab.com/badge/-You can contact me directly through Discord by clicking the panel below.-black?style=for-the-badge"
+        />
+    </a>
+    <p></p>
+<!--<img src="https://cdn.discordapp.com/attachments/533004171956191242/887815222247694406/ImKevinHeaderGithub.png"/>-->
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=KevinGunz&show_icons=true&theme=highcontrast&include_all_commits=true" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinGunz&theme=highcontrast&layout=compact&custom_title=Technologies&langs_count=9" 
-  />
-
-</p>
+<a href="https://discord.com/users/433426340813864960"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/433426340813864960?bg=000000&borderRadius=8px&hideDiscrim=true"/></a>
